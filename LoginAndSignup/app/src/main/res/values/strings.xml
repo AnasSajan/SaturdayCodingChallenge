@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginAndSignup</string>
+    <string name="learncodeonline">LearnCodeOnline</string>
+    <string name="signup">Sign Up</string>
+    <string name="signedIn">Already a LCO student ?</string>
+    <string name="enter_email">Enter Email</string>
+
+</resources>
